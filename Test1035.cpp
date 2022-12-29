@@ -15,8 +15,7 @@ int main()
     }
     else
     {
-        cout<<"Valores nao aceitos"<<endl;
-        cout<<"Hellow"<<endl;
+        cout<<"Valores nao aceitos"<<endl;       
     }
     return 0;
 }
